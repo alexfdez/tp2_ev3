@@ -12,9 +12,9 @@
       
       $ mvn test
   
-# Comprobamos que se ha realizado sin ningun error y nos ha mostrado lo siguiente:
+# Comprobamos que se ha realizado sin ningun error y observamos que nos muestra:
 
-       [INFO] Scanning for projects...
+      [INFO] Scanning for projects...
       [INFO]                                                                         
       [INFO] ------------------------------------------------------------------------
       [INFO] Building Tp2_maven 0.0.1-SNAPSHOT
