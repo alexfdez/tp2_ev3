@@ -2,12 +2,12 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>victor.app</groupId>
-  <artifactId>JUnitTest</artifactId>
+  <groupId>tp2ev3</groupId>
+  <artifactId>Test</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
 
-  <name>JUnitTest</name>
+  <name>tp2</name>
   <url>http://maven.apache.org</url>
 
   <properties>
